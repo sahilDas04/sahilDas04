@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI & Machine Learning
 - 🌱 I’m currently learning CS Enginering at JIS univesrity 
 - 💞️ I’m looking to collaborate on .AI projects
-- 📫 How to reach me sahildaskol@gmail.com
+- 📫 How to reach me sahild.cse.jisu22@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: EDA is all about Spotting the unspotabble
 
